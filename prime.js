@@ -11,8 +11,6 @@ if(fact==2)
 {
 console.log("prime");
 }
-else{
-console.log("Not Prime");
-}
+
 
 //hello
