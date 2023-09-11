@@ -7,9 +7,8 @@ if(number%i==0)
 fact++;
 }
 }
-if(fact==2)
 {
-console.log("prime");
+    console.log("Hello")
 }
 
 
